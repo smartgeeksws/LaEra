@@ -16,8 +16,6 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".SWplaActivity" />
-        <activity android:name=".HOLA"></activity>
     </application>
 
 </manifest>
